@@ -1,0 +1,5 @@
+{
+  "name": "Airtime Claim App",
+  "description": "A no-signup airtime claim app integrated with TCI Data Hub VTU API. Allows users to claim free airtime once per phone number.",
+  "requestFramePermissions": []
+}
